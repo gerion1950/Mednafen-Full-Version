@@ -240,4 +240,4 @@ This repository serves as the official landing page for Mednafen. The software i
 **Get the most recent version of Mednafen today!**
 
 ---
-**Last updated:** 2026-11-06 22:34:24 UTC
+**Last updated:** 2026-11-07 02:28:28 UTC
